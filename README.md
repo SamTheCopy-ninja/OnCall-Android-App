@@ -9,6 +9,12 @@ Follow this link to view a video walkthrough showcasing the app: [OnCall demo vi
 - Please ensure your Android device settings allow you to run and install unknown apps, as the .apk file is currently unsigned and is meant for testing purposes
 - Once the file is downloaded to your device, click on the .apk file to install it, the app should now open and run locally on your mobile device
 
+## Getting Started
+
+1. Open Android Studio and clone the repository: `https://github.com/SamTheCopy-ninja/OnCall-Android-App.git`
+2. Run the Gradle build script, load script configurations and check that daemon file paths match, and sync the build.
+3. Build and run the app on an emulator.  
+
 ## Change log and feature updates
 
 This updated prototype introduces these new features:  
@@ -63,12 +69,6 @@ This app uses `Android Gradle plugin version 8.5.2`, please update your build if
 - Firebase Authentication
 - Firebase Realtime Database  
 - Firebase Storage
-
-## Getting Started
-
-1. Open Android Studio and clone the repository: `https://github.com/SamTheCopy-ninja/OnCall-Android-App.git`
-2. Run the Gradle build script, load script configurations and check that daemon file paths match, and sync the build.
-3. Build and run the app on an emulator.
 
 ## References
   
