@@ -66,7 +66,7 @@ This app uses `Android Gradle plugin version 8.5.2`, please update your build if
 
 ## Getting Started
 
-1. Open Android Studio and clone the repository: `https://github.com/VCDN-2024/opsc7311-poe-ST10082747.git`
+1. Open Android Studio and clone the repository: `https://github.com/SamTheCopy-ninja/OnCall-Android-App.git`
 2. Run the Gradle build script, load script configurations and check that daemon file paths match, and sync the build.
 3. Build and run the app on an emulator.
 
