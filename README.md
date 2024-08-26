@@ -5,7 +5,7 @@ It provides a user-friendly interface for creating, managing, and organizing tim
 
 Follow this link to view a video walkthrough showcasing the app: [OnCall demo video](https://youtu.be/W51ZEJHWky4)  
 
-# Download the .apk file included in this repository if you wish to install and run the OnCall app on your mobile device  
+# Download the `app-debug.apk` file included in this repository if you wish to install and run the OnCall app on your mobile device  
 - Please ensure your Android device settings allow you to run and install unknown apps, as the .apk file is currently unsigned and is meant for testing purposes
 - Once the file is downloaded to your device, click on the .apk file to install it, the app should now open and run locally on your mobile device
 
