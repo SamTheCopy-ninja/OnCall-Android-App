@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "35930918686",
+    "project_id": "oncall-e2206",
+    "storage_bucket": "oncall-e2206.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:35930918686:android:1f74f0f671abb8bd12430f",
+        "android_client_info": {
+          "package_name": "com.example.oncall"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDbHNNEqO3Stw0XH_A3NZPxmknVHIygwow"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

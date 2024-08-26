@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:gravity="center"
+    android:background="@drawable/space"
+    android:orientation="vertical"
+    android:padding="16dp">
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Welcome back!"
+        android:textSize="24sp"
+        android:textStyle="bold"
+        android:textColor="@color/white"
+        android:layout_gravity="center_horizontal"
+        android:layout_marginTop="32dp" />
+
+    <TextView
+        android:id="@+id/textView"
+        android:layout_width="76dp"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:textColor="@color/white"
+        android:text="Sign In"
+        android:layout_marginTop="32dp"
+        android:textSize="20sp" />
+
+    <EditText
+        android:id="@+id/loginEmail"
+        android:layout_width="303dp"
+        android:layout_height="61dp"
+        android:background="@color/white"
+        android:padding="10dp"
+        android:hint="@string/email"
+        android:inputType="textEmailAddress" />
+
+
+    <EditText
+        android:id="@+id/passwordLogin"
+        android:layout_width="303dp"
+        android:layout_height="61dp"
+        android:background="@color/white"
+        android:hint="@string/password"
+        android:inputType="textPassword"
+        android:layout_marginTop="32dp"
+        android:padding="10dp" />
+
+
+
+    <Button
+        android:id="@+id/loginBtn"
+        android:layout_width="267dp"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="32dp"
+        android:layout_gravity="center"
+        android:text="Log in"
+        android:textColor="@android:color/white" />
+
+    <TextView
+        android:id="@+id/loginRedirect"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Click Here To Register"
+        android:textColor="@color/white"
+        android:layout_gravity="center_horizontal"
+        android:layout_marginTop="16dp" />
+
+    <ImageView
+        android:id="@+id/characterImageView"
+        android:layout_width="100dp"
+        android:layout_height="102dp"
+        android:layout_gravity="end"
+        android:layout_marginTop="32dp"
+        android:src="@drawable/icon" />
+
+</LinearLayout>
